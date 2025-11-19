@@ -1,0 +1,2 @@
+I cant get IntelliJ to commit to github
+WHY? you just click commit and push or did u not sign in correctly?
