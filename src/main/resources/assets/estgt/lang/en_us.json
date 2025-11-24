@@ -1,0 +1,13 @@
+{
+  "itemGroup.estgt": "Example Mod Tab",
+  "block.estgt.example_block": "Example Block",
+  "item.estgt.example_item": "Example Item",
+
+  "estgt.configuration.title": "Epic and ShinySquares Tech mod Configs",
+  "estgt.configuration.section.estgt.common.toml": "Epic and ShinySquares Tech mod Configs",
+  "estgt.configuration.section.estgt.common.toml.title": "Epic and ShinySquares Tech mod Configs",
+  "estgt.configuration.items": "Item List",
+  "estgt.configuration.logDirtBlock": "Log Dirt Block",
+  "estgt.configuration.magicNumberIntroduction": "Magic Number Text",
+  "estgt.configuration.magicNumber": "Magic Number"
+}
