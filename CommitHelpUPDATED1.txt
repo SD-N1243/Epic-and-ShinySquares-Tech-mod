@@ -1,2 +1,3 @@
 I cant get IntelliJ to commit to github
 WHY? you just click commit and push or did u not sign in correctly?
+i got it to commit and push on linux. i will remove this file from the repo most likely tomorrow
